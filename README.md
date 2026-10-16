@@ -1,16 +1,19 @@
-## Hi there 👋
+Full stack developer based in La Rochelle, France. Right now I'm focusing on machine learning
+and LLM projects, and on integrating them with a robot.
 
-<!--
-**DOGGOZ01/DOGGOZ01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Main stack
 
-Here are some ideas to get you started:
+[![stack](https://skillicons.dev/icons?i=nodejs,ts,js,express,django,py,react,nextjs,postgres,mysql,docker,nginx,linux,pytorch,opencv&perline=8)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent projects
+
+- [theBarathon](https://github.com/DOGGOZ01/theBarathon): a mobile web app for rating bars, restaurants
+  and outings with friends, with a map, reviews, a leaderboard and notifications.
+  Django REST Framework, Next.js, TypeScript.
+- [Tasks Space](https://github.com/DOGGOZ01/Tasks-Space): a daily and weekly task tracker where you design
+  the whole board yourself, with an AI assistant that restyles it from a plain description.
+  Django REST Framework, React, TypeScript, Docker.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/aleksandr-kuznetsov-018006358/)
